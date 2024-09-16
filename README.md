@@ -15,7 +15,7 @@ How to Use:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/stopwatch-project.git
+git clone https://github.com/vishal6139/stopwatch-project.git
 Open index.html in your browser.
 Use the buttons to start, stop, and reset the stopwatch.
 Future Enhancements:
